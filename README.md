@@ -4,7 +4,7 @@ Code used for the typification, statistical evaluation, and visualisation of
 non-metallic inclusion (NMI) data in:
 
 > R. Musi, K. Thiele, S. Ilie, R. Rössler, S.K. Michelic (2026). Evolution of Non-Metallic Inclusions During the 
-> Industrial Secondary Refining of an Al-Killed, Ca-Treated, Low-S Steel. *Nature scientific reports - Pyrometallurgy*, [doi]
+> Industrial Secondary Refining of an Al-Killed, Ca-Treated, Low-S Steel. *Scientific Reports*, [doi]
 
 ---
 
@@ -22,6 +22,7 @@ non-metallic inclusion (NMI) data in:
 | [`pyproject.toml`](pyproject.toml) | Declared dependencies |
 | [`uv.lock`](uv.lock) | Fully resolved environment, with hashes |
 | [`requirements.txt`](requirements.txt) | Flat pinned dependency list, generated from `uv.lock` |
+
 ## Requirements
 
 - Python 3.14
@@ -109,7 +110,11 @@ reasonable request and with permission of voestalpine Stahl GmbH.
 
 ## Citation
 
-Please cite the publication above.
+Please cite the publication above. To cite this code, use the archived version
+on Zenodo: https://doi.org/10.5281/zenodo.22756292 (concept DOI, resolves to the
+latest version).
+
+Machine-readable metadata is in [`CITATION.cff`](CITATION.cff).
 
 ## License
 
