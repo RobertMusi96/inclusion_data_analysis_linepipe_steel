@@ -109,8 +109,7 @@ reasonable request and with permission of voestalpine Stahl GmbH.
 
 ## Citation
 
-Please cite the publication above. To cite this repository, use the archived
-version: https://doi.org/10.5281/zenodo.22755746.
+Please cite the publication above.
 
 ## License
 
