@@ -1,0 +1,16 @@
+[project]
+name = "inclusion-data-analysis-linepipe-steel"
+version = "0.1.0"
+description = "Analysis code for NMI evolution during industrial secondary refining"
+authors = [
+    { name = "Robert Musi", email = "robert.musi@unileoben.ac.at" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.2",
+    "mpltern>=1.0.5",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.5",
+    "scipy>=1.18.1",
+]
