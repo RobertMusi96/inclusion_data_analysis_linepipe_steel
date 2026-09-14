@@ -1,0 +1,74 @@
+cff-version: 1.2.0
+title: >-
+  Analysis code for "Evolution of Non-Metallic Inclusions During the Industrial
+  Secondary Refining of an Al-Killed, Ca-Treated, Low-S Steel"
+message: >-
+  If you use this software, please cite both the article and the software
+  itself, using the metadata below.
+type: software
+authors:
+  - family-names: Musi
+    given-names: Robert
+    affiliation: Montanuniversität Leoben
+    orcid: 'https://orcid.org/0009-0000-5283-9228'
+    email: robert.musi@unileoben.ac.at
+  - family-names: Thiele
+    given-names: Kathrin
+    affiliation: Montanuniversität Leoben
+    orcid: 'https://orcid.org/0000-0003-4324-5297'
+  - family-names: Ilie
+    given-names: Sergiu
+    affiliation: voestalpine Stahl GmbH
+    orcid: 'https://orcid.org/0000-0002-2205-745X'
+  - family-names: Rössler
+    given-names: Roman
+    affiliation: voestalpine Stahl GmbH
+  - family-names: Michelic
+    given-names: Susanne Katharina
+    affiliation: Montanuniversität Leoben
+    orcid: 'https://orcid.org/0000-0002-4325-8648'
+abstract: >-
+  Code for the typification, statistical evaluation, and visualisation of
+  non-metallic inclusion data from the industrial secondary refining of an
+  Al-killed, Ca-treated, low-S linepipe steel. Includes ternary kernel density
+  estimation of inclusion compositions, non-parametric size comparisons with
+  effect sizes and multiple-comparison correction, and the figure code for the
+  associated publication.
+keywords:
+  - calcium modification
+  - calcium aluminates
+  - secondary refining
+  - automated SEM-EDS
+  - steel cleanness
+license: MIT
+repository-code: >-
+  https://github.com/RobertMusi96/inclusion_data_analysis_linepipe_steel
+version: 1.0.0
+date-released: '2026-09-14'
+preferred-citation:
+  type: article
+  title: >-
+    Evolution of Non-Metallic Inclusions During the Industrial Secondary
+    Refining of an Al-Killed, Ca-Treated, Low-S Steel
+  authors:
+    - family-names: Musi
+      given-names: Robert
+      affiliation: Montanuniversität Leoben
+      orcid: 'https://orcid.org/0009-0000-5283-9228'
+    - family-names: Thiele
+      given-names: Kathrin
+      affiliation: Montanuniversität Leoben
+      orcid: 'https://orcid.org/0000-0003-4324-5297'
+    - family-names: Ilie
+      given-names: Sergiu
+      affiliation: voestalpine Stahl GmbH
+      orcid: 'https://orcid.org/0000-0002-2205-745X'
+    - family-names: Rössler
+      given-names: Roman
+      affiliation: voestalpine Stahl GmbH
+    - family-names: Michelic
+      given-names: Susanne Katharina
+      affiliation: Montanuniversität Leoben
+      orcid: 'https://orcid.org/0000-0002-4325-8648'
+  journal: Scientific Reports
+  year: 2026
