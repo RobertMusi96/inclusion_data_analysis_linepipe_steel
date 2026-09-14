@@ -1,7 +1,7 @@
 {
   "upload_type": "software",
   "title": "Analysis code for \"Evolution of Non-Metallic Inclusions During the Industrial Secondary Refining of an Al-Killed, Ca-Treated, Low-S Steel\"",
-  "description": "Code for the typification, statistical evaluation, and visualisation of non-metallic inclusion data from the industrial secondary refining of an Al-killed, Ca-treated, low-S linepipe steel. Includes ternary kernel density estimation of inclusion compositions, non-parametric size comparisons with effect sizes and multiple-comparison correction, and the figure code for the associated publication.",
+  "description": "Code for the typification, statistical evaluation, and visualisation of non-metallic inclusion data from the industrial secondary refining of an Al-killed, Ca-treated, low-S linepipe steel. Includes ternary kernel density estimation of inclusion compositions, non-parametric size comparisons with effect sizes and multiple-comparison correction, and the figure code for the associated publication. The particle-level data is artificial.",
   "creators": [
     {
       "name": "Musi, Robert",
@@ -35,7 +35,7 @@
     "calcium modification",
     "calcium aluminates",
     "secondary refining",
-    "automated SEM-ED",
+    "automated SEM-EDS",
     "steel cleanness"
   ]
 }
