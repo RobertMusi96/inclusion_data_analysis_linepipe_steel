@@ -1,0 +1,41 @@
+{
+  "upload_type": "software",
+  "title": "Analysis code for \"Evolution of Non-Metallic Inclusions During the Industrial Secondary Refining of an Al-Killed, Ca-Treated, Low-S Steel\"",
+  "description": "Code for the typification, statistical evaluation, and visualisation of non-metallic inclusion data from the industrial secondary refining of an Al-killed, Ca-treated, low-S linepipe steel. Includes ternary kernel density estimation of inclusion compositions, non-parametric size comparisons with effect sizes and multiple-comparison correction, and the figure code for the associated publication. The accompanying data files are synthetic.",
+  "creators": [
+    {
+      "name": "Musi, Robert",
+      "affiliation": "Montanuniversität Leoben",
+      "orcid": "0009-0000-5283-9228"
+    },
+    {
+      "name": "Thiele, Kathrin",
+      "affiliation": "Montanuniversität Leoben",
+      "orcid": "0000-0003-4324-5297"
+    },
+    {
+      "name": "Ilie, Sergiu",
+      "affiliation": "voestalpine Stahl GmbH",
+      "orcid": "0000-0002-2205-745X"
+    },
+    {
+      "name": "Rössler, Roman",
+      "affiliation": "voestalpine Stahl GmbH"
+    },
+    {
+      "name": "Michelic, Susanne Katharina",
+      "affiliation": "Montanuniversität Leoben",
+      "orcid": "0000-0002-4325-8648"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "calcium modification",
+    "calcium aluminates",
+    "secondary refining",
+    "automated SEM-ED",
+    "steel cleanness"
+  ]
+}
