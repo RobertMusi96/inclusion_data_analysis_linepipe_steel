@@ -1,10 +1,10 @@
-# Analysis code for "Evolution of Non-Metallic Inclusions During the Industrial Secondary Refining of an Al-Killed, Ca-Treated, Low-S Steel"
+# Analysis code for "Evolution of Non-Metallic Inclusions in an Al-Killed, Ca-Treated, Low-S Steel During the Industrial Secondary Refining"
 
 Code used for the typification, statistical evaluation, and visualisation of
 non-metallic inclusion (NMI) data in:
 
-> R. Musi, K. Thiele, S. Ilie, R. Rössler, S.K. Michelic (2026). Evolution of Non-Metallic Inclusions During the 
-> Industrial Secondary Refining of an Al-Killed, Ca-Treated, Low-S Steel. *Scientific Reports*
+> R. Musi, K. Thiele, S. Ilie, R. Rössler, S.K. Michelic (2026). Evolution of Non-Metallic Inclusions in an Al-Killed, 
+> Ca-Treated, Low-S Steel During the Industrial Secondary Refining . *Scientific Reports*
 
 ---
 
@@ -14,6 +14,7 @@ non-metallic inclusion (NMI) data in:
 |------|-------------|
 | [`Code/Functions.py`](Code/Functions.py) | Shared functions: plot styling, ternary coordinate transforms, von Mises-Fisher KDE |
 | [`Code/Figure - Boxplots of ECD.ipynb`](Code/Figure%20-%20Boxplots%20of%20ECD.ipynb) | Boxplots of equivalent circle diameter |
+| [`Code/Figure - Evolution elemental composition.ipynb`](Code/Figure%20-%20Evolution%20elemental%20composition.ipynb) | Evolution of elemental composition |
 | [`Code/Figure - KDE in ternary Systems.ipynb`](Code/Figure%20-%20KDE%20in%20ternary%20Systems.ipynb) | Ternary kernel density estimation of NMI compositions |
 | [`Code/Figure - Violinplots NMI composition.ipynb`](Code/Figure%20-%20Violinplots%20NMI%20composition.ipynb) | Violin plots of logarithmic oxide ratios |
 | [`Code/Figure - Type distribution across stages.ipynb`](Code/Figure%20-%20Type%20distribution%20across%20stages.ipynb) | Number density of inclusion types along the process route |
@@ -58,6 +59,9 @@ the input data relative to their own directory, so they must be executed with
 
 ## Data
 
+### `Data files/Elemental Composition/elemental_data_long.csv`
+
+Total Ca, Al, total O and S content of the samples at all stages for each heat.
 
 ### `Data files/Inclusion lists per stage/`
 
