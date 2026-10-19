@@ -1,10 +1,10 @@
-# Analysis code for "Evolution of Non-Metallic Inclusions in an Al-Killed, Ca-Treated, Low-S Steel During the Industrial Secondary Refining"
+# Analysis code for "Evolution of Non-Metallic Inclusions in an Al-Killed, Ca-Treated, Low-S Steel During Industrial Secondary Refining"
 
 Code used for the typification, statistical evaluation, and visualisation of
 non-metallic inclusion (NMI) data in:
 
 > R. Musi, K. Thiele, S. Ilie, R. Rössler, S.K. Michelic (2026). Evolution of Non-Metallic Inclusions in an Al-Killed, 
-> Ca-Treated, Low-S Steel During the Industrial Secondary Refining . *Scientific Reports*
+> Ca-Treated, Low-S Steel During Industrial Secondary Refining . *Scientific Reports*
 
 ---
 
